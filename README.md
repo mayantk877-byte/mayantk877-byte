@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Mayan</h1>
+<h1 align="center">I'm Mayan</h1>
 <h3 align="center">Java Full Stack Developer | Backend Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Development+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
